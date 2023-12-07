@@ -5,7 +5,7 @@
 - 🎓 Estudiando Desarrollo de Aplicaciones Multiplataforma en la Universidad Europea de Madrid.
 
 ## Tecnologías y Habilidades
-- 💻 Experiencia en Java, Kotlin, Python, HTML, CSS.
+- 💻 Experiencia en Java, Kotlin, Python, HTML, CSS, JavaScript, SQL, PhP.
 
 ## Proyectos
 - 📚 Actualmente trabajando en proyectos para mis clases y explorando nuevas ideas.
