@@ -1,16 +1,27 @@
-# ¡Hola, soy Alejandra! 👋
+# ¡Hola! Soy Alejandra 👋
 
-## Acerca de mí
-- 📍 Vivo en Castro-Urdiales.
-- 🎓 Estudiando Desarrollo de Aplicaciones Multiplataforma en la Universidad Europea de Madrid.
+📍 **Ubicación:** Castro-Urdiales  
+🎓 **Estudios:** Desarrollo de Aplicaciones Multiplataforma - Universidad Europea de Madrid
 
-## Tecnologías y Habilidades
-- 💻 Experiencia en Java, Kotlin, Python, HTML, CSS, JavaScript, SQL, PhP.
+---
 
-## Proyectos
-- 📚 Actualmente trabajando en proyectos para mis clases y explorando nuevas ideas.
-- 🚀 Apasionada por la programación y siempre buscando aprender y mejorar.
-- 📱 Desarrollando proyectos en Android Studio y utilizando Eclipse WindowBuilder.
+### 🚀 Acerca de mí  
+Soy una desarrolladora en formación, apasionada por la programación y en constante aprendizaje. Actualmente, me enfoco en mejorar mis habilidades y explorar nuevas tecnologías. Mi experiencia principal es en el desarrollo de aplicaciones móviles y web, y me encanta enfrentarme a nuevos retos tecnológicos.
 
-## Contacto
-- 📧 alejandrarodriguezp97@gmail.com
+### 🛠️ Tecnologías y Habilidades  
+- **Lenguajes:** Java, Kotlin, Python, HTML, CSS, JavaScript, SQL, PHP  
+- **Frameworks y Herramientas:** Android Studio, Eclipse WindowBuilder  
+- **Otras Habilidades:** Desarrollo full stack, experiencia con bases de datos y conocimientos en UX/UI
+
+---
+
+### 📂 Proyectos  
+Actualmente trabajo en varios proyectos personales y académicos para fortalecer mi experiencia práctica en el desarrollo de aplicaciones y exploración de nuevas ideas.
+
+---
+
+### 📬 Contacto  
+📧 **Email:** [alejandrarodriguezp97@gmail.com](mailto:alejandrarodriguezp97@gmail.com)  
+📱 **Teléfono:** +34 640 08 35 71
+
+Siempre estoy abierta a oportunidades de colaboración y nuevos proyectos, ¡no dudes en ponerte en contacto!
