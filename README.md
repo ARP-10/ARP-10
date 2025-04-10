@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Estoy trabajando en proyectos de desarrollo de aplicaciones para poner en práctica lo que aprendo y explorar nuevas tecnologías.<br>💻 Tengo experiencia en el desarrollo full stack y en la gestión de servidores con Tomcat y Servlets, además del manejo de tecnologías web como .jsp.<br>📚 Me encanta ampliar mis conocimientos en herramientas como React, Angular, Spring.<br>🎯 Estoy enfocada en superar retos tecnológicos y mejorar constantemente mis habilidades para crecer como profesional.<br>
+✨ Estoy trabajando en proyectos de desarrollo de aplicaciones para poner en práctica lo que aprendo y explorar nuevas tecnologías.<br>💻 Tengo experiencia en el desarrollo full stack y en la gestión de servidores con Tomcat y Servlets, además del manejo de tecnologías web como React y Angular.<br>📚 Me encanta ampliar mis conocimientos en diferentes herramientas.<br>🎯 Estoy enfocada en superar retos tecnológicos y mejorar constantemente mis habilidades para crecer como profesional.<br>
 
 
 # 💻 Tech Stack:
